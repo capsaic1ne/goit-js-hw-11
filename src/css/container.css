@@ -1,5 +1,9 @@
 /* Styles for Mobile devices */
 .container {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-wrap: wrap;
   min-width: 320px;
   max-width: 375px;
   margin: 0 auto;
